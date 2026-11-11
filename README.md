@@ -2,7 +2,7 @@
 
 # Bem vindo ao meu espaço!
 
-Meu nome é Gabriel Merlin Alfano, tenho 19 anos e sou estudante de Engenharia da Informação na [Universidade Federal do ABC](https://www.ufabc.edu.br/)🎓 <p>
+Meu nome é Gabriel Merlin Alfano, tenho 24 anos e sou formado de Engenharia da Informação na [Universidade Federal do ABC](https://www.ufabc.edu.br/)🎓 <p>
 No momento atuo no time de SRE/DevOps do projeto FICC (Fixed Income Instruments, Currencies and Commodities) do banco BTG Pactual,
  visando aperfeiçoar meus conhecimentos de programação a fim de me tornar um desenvolvedor. <p>
 No banco, auxilio nos processos de criação e aperfeiçoamento de esteiras para homologação de projetos e sou responsável pela documentação dos
